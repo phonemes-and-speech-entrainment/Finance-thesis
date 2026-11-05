@@ -13,8 +13,12 @@ This project applies quantitative methods, stochastic calculus, and statistical 
 ---
 
 ## Repository Structure
-- `/scripts`: Custom Python scripts for mathematical modeling, simulation, and financial data analysis.
-- `/doc`: Thesis text, LaTeX source files, and mathematical proofs.
+- `/scripts`: Jupyter notebooks and custom Python scripts for portfolio allocation, mathematical modeling, simulation, and financial data analysis.
+  - `/scripts/initial drafts`: Initial notebook drafts: `Untitled.ipynb`, `Portfolio_allocation_daily.ipynb`, and `Portfolio_Allocation_Task1.ipynb`.
+- `/doc`: Thesis text, LaTeX source files, mathematical proofs, and the thesis PDF.
+
+## Disclaimer
+This repository is for academic and research purposes only. Its contents are not financial, investment, legal, or tax advice, and are not a recommendation to buy or sell any financial instrument. Analyses and backtests depend on their data, assumptions, and implementation; historical or simulated results do not guarantee future performance.
 
 ---
 
