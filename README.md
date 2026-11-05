@@ -1,6 +1,6 @@
 #### Master's Thesis Repository `README.md`
 
-```markdown
+
 # Master's Thesis: Portfolio Allocation Strategies
 
 This repository hosts the code, mathematical derivations, and documentation for my Master's thesis in Mathematical Finance (MSc Applied Mathematics, 2026). 
