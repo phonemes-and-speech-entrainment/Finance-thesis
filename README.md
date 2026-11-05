@@ -3,22 +3,22 @@
 
 # Master's Thesis: Portfolio Allocation Strategies
 
-This repository hosts the code, mathematical derivations, and documentation for my Master's thesis in Mathematical Finance (MSc Applied Mathematics, 2026). 
+This repository hosts the code, mathematical derivations, and documentation for my Master's thesis in Mathematical Finance (MSc Applied Mathematics, 2025). 
 
 ---
 
-## 📌 Abstract & Overview
+## Abstract & Overview
 This project applies quantitative methods, stochastic calculus, and statistical modeling to financial time-series data and asset pricing models. It demonstrates the application of rigorous mathematical frameworks to evaluate risk, model asset behavior, and analyze market data.
 
 ---
 
-## 🛠️ Repository Structure
-- `/scripts`: Custom [MATLAB / Python / R] scripts for mathematical modeling, simulation, and financial data analysis.
+## Repository Structure
+- `/scripts`: Custom Python scripts for mathematical modeling, simulation, and financial data analysis.
 - `/doc`: Thesis text, LaTeX source files, and mathematical proofs.
 
 ---
 
-## 👥 Credits & Acknowledgments
+## Credits & Acknowledgments
 
 * **Author:** Oana Cucu
 * **Academic Advisor:** Supervised by Prof. Henry Chiu at University of Birmingham, UK.
